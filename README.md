@@ -77,26 +77,24 @@ Simulate carbon price stress testing
 <img width="715" height="470" alt="sector_exposure_chart" src="https://github.com/user-attachments/assets/cb3127e0-d6b3-4936-adaa-d0750999c494" />
 
 
-![Sector Exposure](images/sector_exposure_chart.png)
-
 This chart shows how climate exposure is distributed across sectors.  
 Energy and Utilities dominate portfolio carbon exposure due to their high sector carbon intensity.
 
 ---
 
 ### Portfolio Allocation by Sector
+
 <img width="854" height="660" alt="portfolio_allocation" src="https://github.com/user-attachments/assets/db1b5025-e09c-4ef8-820c-cd0da4593771" />
 
-![Portfolio Allocation](images/portfolio_allocation.png)
 
 This visualization shows the portfolio weight distribution across sectors.
 
 ---
 
 ### Top Holdings by Carbon Exposure
+
 <img width="674" height="503" alt="top_holdings_exposure" src="https://github.com/user-attachments/assets/ee1bd896-5369-4a3d-a031-bc334bfaf6d2" />
 
-![Top Holdings Exposure](images/top_holdings_exposure.png)
 
 This chart highlights the companies contributing most to the portfolio's climate exposure.
 
@@ -104,7 +102,6 @@ This chart highlights the companies contributing most to the portfolio's climate
 
 ### Original vs Rebalanced Portfolio Exposure
 
-![Exposure Comparison](images/exposure_comparison.png)
 <img width="674" height="503" alt="exposure_comparison" src="https://github.com/user-attachments/assets/b3bf984b-ddef-4202-aa7a-9dfb0934d1da" />
 
 The comparison demonstrates how portfolio rebalancing toward lower-carbon sectors can significantly reduce total climate exposure.
