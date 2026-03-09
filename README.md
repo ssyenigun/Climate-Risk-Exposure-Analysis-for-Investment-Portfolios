@@ -123,6 +123,5 @@ Conclusion
 This project demonstrates how climate-related data can be incorporated into portfolio risk analysis. By linking portfolio allocation with sector-level carbon intensity metrics, investors can better understand their exposure to climate-related risks and explore strategies to reduce carbon exposure through portfolio rebalancing.
 
 Author
-
 Sara Seyda Yenigun
-Data Analytics | Climate Risk | Financial Data Analysis
+Financial Data Analyst & ML Engineer | Risk & Credit Analytics | Python • SQL • BI | AI-Driven Financial Systems
