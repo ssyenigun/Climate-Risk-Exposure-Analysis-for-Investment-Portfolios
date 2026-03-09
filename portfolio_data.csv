@@ -1,0 +1,26 @@
+company,sector,portfolio_weight
+Exxon,Energy,0.06
+Chevron,Energy,0.05
+Enbridge,Energy,0.05
+NextEra Energy,Utilities,0.05
+Duke Energy,Utilities,0.04
+Caterpillar,Industrials,0.05
+Boeing,Industrials,0.04
+3M,Industrials,0.04
+Microsoft,Technology,0.06
+Apple,Technology,0.06
+Nvidia,Technology,0.05
+Amazon,Consumer Discretionary,0.05
+Tesla,Consumer Discretionary,0.04
+Home Depot,Consumer Discretionary,0.04
+JPMorgan,Financials,0.05
+Goldman Sachs,Financials,0.04
+Visa,Financials,0.04
+Mastercard,Financials,0.04
+Pfizer,Healthcare,0.04
+Johnson & Johnson,Healthcare,0.04
+UnitedHealth,Healthcare,0.04
+Dow,Materials,0.04
+Freeport-McMoRan,Materials,0.03
+Rio Tinto,Materials,0.03
+Procter & Gamble,Consumer Staples,0.04
