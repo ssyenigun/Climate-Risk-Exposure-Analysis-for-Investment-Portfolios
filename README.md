@@ -75,6 +75,7 @@ Simulate carbon price stress testing
 
 ### Portfolio Climate Exposure by Sector
 
+
 ![Sector Exposure](images/sector_exposure_chart.png)
 
 This chart shows how climate exposure is distributed across sectors.  
