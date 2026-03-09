@@ -1,11 +1,12 @@
-Climate Risk Exposure Analysis for Investment Portfolios
-Overview
+## Climate Risk Exposure Analysis for Investment Portfolios
+
+# Overview
 
 This project analyzes the climate risk exposure of an investment portfolio by combining portfolio allocation data with sector-level carbon intensity metrics. Using Python, the analysis estimates portfolio carbon exposure, identifies high-emission sectors, and evaluates how portfolio rebalancing can reduce climate-related risk.
 
 The project demonstrates how climate and ESG data can be integrated into portfolio risk analysis to support more sustainable investment decisions.
 
-Project Background
+# Project Background
 
 Climate change is increasingly recognized as a financial risk factor for investors and financial institutions. Carbon-intensive sectors such as Energy, Utilities, and Materials may face growing regulatory pressure, carbon pricing policies, and transition risks as the global economy moves toward lower-carbon energy systems.
 
@@ -13,23 +14,23 @@ As a result, portfolio managers and risk analysts are increasingly incorporating
 
 This project demonstrates how portfolio data can be combined with sector-level carbon intensity information to estimate portfolio-level climate exposure and identify key risk drivers.
 
-Project Objectives
+# Project Objectives
 
 The objectives of this analysis are to:
 
-Estimate the carbon exposure of an investment portfolio
+* Estimate the carbon exposure of an investment portfolio
 
-Identify sectors and holdings contributing most to climate risk
+* Identify sectors and holdings contributing most to climate risk
 
-Calculate weighted carbon exposure based on portfolio allocation
+* Calculate weighted carbon exposure based on portfolio allocation
 
-Visualize how carbon exposure is distributed across sectors
+* Visualize how carbon exposure is distributed across sectors
 
-Evaluate how portfolio rebalancing can reduce climate-related risk
+* Evaluate how portfolio rebalancing can reduce climate-related risk
 
-Demonstrate how climate data can support risk-aware investment decisions
+* Demonstrate how climate data can support risk-aware investment decisions
 
-Dataset Description
+# Dataset Description
 
 The analysis uses two datasets:
 
@@ -53,7 +54,7 @@ carbon_intensity	Estimated carbon intensity level
 
 These values represent simplified sector emission proxies used for portfolio climate risk analysis.
 
-Methodology
+# Methodology
 
 The analysis follows these steps:
 
@@ -106,7 +107,7 @@ This chart highlights the companies contributing most to the portfolio's climate
 
 The comparison demonstrates how portfolio rebalancing toward lower-carbon sectors can significantly reduce total climate exposure.
 
-Key Formula
+# Key Formula
 
 Weighted Carbon Exposure:
 
@@ -127,7 +128,7 @@ A rebalanced portfolio allocation toward lower-carbon sectors can significantly 
 
 Under a carbon pricing scenario, high-emission sectors face the largest potential cost impacts
 
-Tools and Technologies
+# Tools and Technologies
 
 Python
 
@@ -153,7 +154,9 @@ climate-risk-portfolio-analysis
 │   └── exposure_comparison.png
 │
 └── README.md
-Conclusion
+
+
+# Conclusion
 
 This project demonstrates how climate-related data can be incorporated into portfolio risk analysis. By linking portfolio allocation with sector-level carbon intensity metrics, investors can better understand their exposure to climate-related risks and explore strategies to reduce carbon exposure through portfolio rebalancing.
 
