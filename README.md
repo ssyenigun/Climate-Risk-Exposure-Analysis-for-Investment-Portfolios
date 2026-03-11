@@ -1,4 +1,4 @@
-# Climate Risk Exposure Analysis for Investment Portfolios
+# Portfolio Carbon Exposure Analysis
 
 ## Overview
 
