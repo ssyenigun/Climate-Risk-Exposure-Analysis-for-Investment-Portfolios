@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes the climate risk exposure of an investment portfolio by combining portfolio allocation data with sector-level carbon intensity metrics. Using Python, the analysis estimates portfolio carbon exposure, identifies high-emission sectors, and evaluates how portfolio rebalancing can reduce climate-related risk.
+This project analyzes the climate risk exposure of an investment portfolio by combining portfolio allocation data with sector-level carbon intensity metrics. This project focuses on estimating portfolio carbon exposure as an indicator of potential transition climate risk rather than modeling full climate-related financial risk.
 
 The project demonstrates how climate and ESG data can be integrated into portfolio risk analysis to support more sustainable investment decisions.
 
